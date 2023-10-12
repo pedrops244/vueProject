@@ -4,7 +4,12 @@
     <v-main>
       <v-container>
         <h1>Dashboard</h1>
-        <Card />
+        <v-row>
+          <Card />
+          <Card />
+          <Card />
+          <Card />
+        </v-row>
       </v-container>
     </v-main>
   </v-app>
