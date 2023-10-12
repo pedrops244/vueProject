@@ -2,5 +2,5 @@
 import vuetify from './vuetify';
 
 export function registerPlugins(app) {
-   app.use(vuetify);
+  app.use(vuetify);
 }
