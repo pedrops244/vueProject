@@ -1,7 +1,7 @@
 <template>
   <v-row>
-    <v-col cols="6" md="4" lg="3">
-      <v-card>
+    <v-col cols="12" sm="6" md="4" lg="3">
+      <v-card flat class="border-b">
         <v-img
           class="align-end text-white"
           src="https://images.pexels.com/photos/11913285/pexels-photo-11913285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -20,8 +20,8 @@
       </v-card>
     </v-col>
 
-    <v-col cols="6" md="4" lg="3">
-      <v-card>
+    <v-col cols="12" sm="6" md="4" lg="3">
+      <v-card flat class="border-b">
         <v-img
           class="align-end text-white"
           src="https://images.pexels.com/photos/11913285/pexels-photo-11913285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -40,8 +40,8 @@
       </v-card>
     </v-col>
 
-    <v-col cols="6" md="4" lg="3">
-      <v-card>
+    <v-col cols="12" sm="6" md="4" lg="3">
+      <v-card flat class="border-b">
         <v-img
           class="align-end text-white"
           src="https://images.pexels.com/photos/11913285/pexels-photo-11913285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -60,8 +60,8 @@
       </v-card>
     </v-col>
 
-    <v-col cols="6" md="4" lg="3">
-      <v-card>
+    <v-col cols="12" sm="6" md="4" lg="3">
+      <v-card flat class="border-b">
         <v-img
           class="align-end text-white"
           src="https://images.pexels.com/photos/11913285/pexels-photo-11913285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
