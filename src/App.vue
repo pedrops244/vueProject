@@ -6,10 +6,12 @@
 
       <v-main>
          <v-container>
-            <div class="ma-10 d-flex justify-space-between">
-               <div style="width: 100px; height: 100px" class="pa-4 border rounded-lg elevation-2">Teste</div>
-               <div style="width: 100px; height: 100px" class="pa-4 border rounded-lg elevation-2">Teste</div>
-               <div style="width: 100px; height: 100px" class="pa-4 border rounded-lg elevation-2">Teste</div>
+            <h1 class="text-h5 text-md-h3">Dashboard</h1>
+
+            <div class="d-flex flex-column flex-md-row justify-space-between">
+               <div class="w-100 pa-4 border rounded-lg elevation-2">Teste</div>
+               <div class="w-100 pa-4 border rounded-lg elevation-2">Teste</div>
+               <div class="w-100 pa-4 border rounded-lg elevation-2">Teste</div>
             </div>
          </v-container>
          <HelloWorld />
