@@ -15,11 +15,16 @@
           </div>
         </v-card-text>
         <v-card-actions>
-          <v-btn variant="elevated" color="primary">Ver mais</v-btn>
+          <v-btn
+            variant="elevated"
+            color="primary"
+            target="_blank"
+            href="https://www.instacarro.com/blog/noticias/nissan-gt-r"
+            >Ver mais</v-btn
+          >
         </v-card-actions>
       </v-card>
     </v-col>
-
     <v-col cols="12" sm="6" md="4" lg="3">
       <v-card flat class="border-b">
         <v-img
@@ -35,11 +40,16 @@
           </div>
         </v-card-text>
         <v-card-actions>
-          <v-btn variant="elevated" color="primary">Ver mais</v-btn>
+          <v-btn
+            variant="elevated"
+            color="primary"
+            target="_blank"
+            href="https://www.instacarro.com/blog/noticias/nissan-gt-r"
+            >Ver mais</v-btn
+          >
         </v-card-actions>
       </v-card>
     </v-col>
-
     <v-col cols="12" sm="6" md="4" lg="3">
       <v-card flat class="border-b">
         <v-img
@@ -55,11 +65,16 @@
           </div>
         </v-card-text>
         <v-card-actions>
-          <v-btn variant="elevated" color="primary">Ver mais</v-btn>
+          <v-btn
+            variant="elevated"
+            color="primary"
+            target="_blank"
+            href="https://www.instacarro.com/blog/noticias/nissan-gt-r"
+            >Ver mais</v-btn
+          >
         </v-card-actions>
       </v-card>
     </v-col>
-
     <v-col cols="12" sm="6" md="4" lg="3">
       <v-card flat class="border-b">
         <v-img
@@ -75,7 +90,13 @@
           </div>
         </v-card-text>
         <v-card-actions>
-          <v-btn variant="elevated" color="primary">Ver mais</v-btn>
+          <v-btn
+            variant="elevated"
+            color="primary"
+            target="_blank"
+            href="https://www.instacarro.com/blog/noticias/nissan-gt-r"
+            >Ver mais</v-btn
+          >
         </v-card-actions>
       </v-card>
     </v-col>
