@@ -6,12 +6,13 @@
 
       <v-main>
          <v-container>
-            <h1 class="text-h5 text-md-h3">Dashboard</h1>
+            <v-btn color="purple-darken-3">Submit</v-btn>
+            <h1 class="bg-blue-darken-4 px4 py-2">Dashboard</h1>
 
             <div class="d-flex flex-column flex-md-row justify-space-between">
-               <div class="w-100 pa-4 border rounded-lg elevation-2">Teste</div>
-               <div class="w-100 pa-4 border rounded-lg elevation-2">Teste</div>
-               <div class="w-100 pa-4 border rounded-lg elevation-2">Teste</div>
+               <div class="bg-grey-lighten-1 w-100 pa-4 border rounded-lg elevation-2">Teste</div>
+               <div class="bg-grey-lighten-1 w-100 pa-4 border rounded-lg elevation-2">Teste</div>
+               <div class="bg-grey-lighten-1 w-100 pa-4 border rounded-lg elevation-2">Teste</div>
             </div>
          </v-container>
          <HelloWorld />
