@@ -8,13 +8,13 @@
         <v-card-text>
           <v-row>
             <v-col>
-              <v-text-field label="Nome" variant="outlined" clearable :rules="nameRules"></v-text-field>
+              <v-text-field label="Nome" clearable :rules="nameRules"></v-text-field>
             </v-col>
             <v-col>
-              <v-text-field label="Email" variant="outlined" clearable :rules="emailRules"></v-text-field>
+              <v-text-field label="Email" clearable :rules="emailRules"></v-text-field>
             </v-col>
           </v-row>
-          <v-select class="mt-3" label="Cargo" variant="outlined" :items="['Admin', 'Gerente', 'Convidado']"></v-select>
+          <v-select class="mt-3" label="Cargo" :items="['Admin', 'Gerente', 'Convidado']"></v-select>
         </v-card-text>
         <v-card-actions>
           <v-spacer></v-spacer>
