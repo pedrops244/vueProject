@@ -1,6 +1,9 @@
 <template>
   <v-card flat class="border mb-4">
-    <v-card-title> Últimos usuários </v-card-title>
+    <div class="d-flex justify-space-between">
+      <v-card-title> Últimos usuários </v-card-title>
+      <AddUser />
+    </div>
     <v-table>
       <thead>
         <tr>
@@ -21,4 +24,5 @@
 
 <script setup>
 import ContentTable from '@/components/ContentTable.vue';
+import AddUser from '@/components/AddUser.vue';
 </script>
