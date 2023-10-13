@@ -1,69 +1,30 @@
-# base
+<div>
+  
+## VueProject
+Landing-page using Vue.
 
-## Project setup
+## Deploy
+- https://vue-project-pedr1n.netlify.app/
 
-```
-# yarn
-yarn
+## Functionalities
+- Simple landing page using multiple vuetify components.
+- Modal for adding user with validation if the fields are filled in.
+  
+## Technologies used
+- **Frontend:** VueJs
+- **Stylization:** Vuetify
+</div>
 
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# pnpm
-bun install
-```
-
-### Compiles and hot-reloads for development
-
-```
-# yarn
-yarn dev
-
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# bun
-bun run dev
-```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# bun
-bun run build
-```
-
-### Lints and fixes files
-
-```
-# yarn
-yarn lint
-
-# npm
-npm run lint
-
-# pnpm
-pnpm lint
-
-# bun
-bun run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
+<div>
+  
+## Projeto Vue
+Uma landing-page usando Vue.
+  
+## Funcionalidades
+- Página de destino simples usando vários componentes vuetify.
+- Modal para adição de usuário com validação caso os campos sejam preenchidos.
+  
+## Tecnologias utilizadas
+- **Frontend:** VueJs
+- **Estilização:** Vuetify
+</div>
