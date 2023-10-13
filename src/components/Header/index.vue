@@ -25,8 +25,8 @@
 </template>
 <script setup>
 import { ref } from 'vue';
-import Notification from '@/components/Notification.vue';
-import Profile from '@/components/Profile.vue';
+import Notification from '@/components/Header/Notification.vue';
+import Profile from '@/components/Header/Profile.vue';
 
 const isDrawerOpen = ref(false);
 </script>

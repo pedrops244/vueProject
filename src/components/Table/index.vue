@@ -23,6 +23,6 @@
 </template>
 
 <script setup>
-import ContentTable from '@/components/ContentTable.vue';
-import AddUser from '@/components/AddUser.vue';
+import ContentTable from '@/components/Table/ContentTable.vue';
+import AddUser from '@/components/Table/AddUser.vue';
 </script>

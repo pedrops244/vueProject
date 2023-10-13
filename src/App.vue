@@ -19,7 +19,7 @@
 </template>
 
 <script setup>
-import Card from '@/components/Card.vue';
-import Header from '@/components/Header.vue';
-import TableUsers from '@/components/TableUsers.vue';
+import Card from '@/components/Card';
+import Header from '@/components/Header';
+import TableUsers from '@/components/Table';
 </script>
