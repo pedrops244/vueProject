@@ -22,3 +22,4 @@
     </v-card>
   </v-menu>
 </template>
+<script setup></script>
